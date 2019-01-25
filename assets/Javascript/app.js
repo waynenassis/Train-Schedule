@@ -1,4 +1,4 @@
- alert("yo");
+
  
  $(document).ready(function () {
 
