@@ -1,0 +1,35 @@
+
+
+
+
+.jumbotron {
+    color: #e9e9e9;
+    background-image: url('../images/train2.jpg');
+    font-family: 'Anton', sans-serif;
+   
+}
+   
+.form-group {
+color: #bd0a0a;
+font-weight: bolder;
+font-size: 23px;
+
+}
+
+.btn-primary {
+    background-color: #db0b0b;
+    border-color: #e9e9e9;
+    font-weight: bolder;
+  
+     
+  
+}
+
+div.panel-body {
+    background-image: url('../images/train2.jpg');
+   
+}
+.panel-title {
+color: #181717;
+
+} 
